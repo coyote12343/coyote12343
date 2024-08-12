@@ -1,16 +1,13 @@
-## Hi there 👋
+## ola pessoa que entrou no meu perfil👋
 
-<!--
-**coyote12343/coyote12343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Estou estudando na Escola Willie Davids
 
-Here are some ideas to get you started:
+  - estou me desenvolvendo no JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - utilizo esse local para meus projetos 
+
+## Para voce entrar em cotato comigo 📫
+
+garcia.oliveira.matheus@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/ZZaiMKvs_BQAAAAC/ultrakill-v1.gif)
